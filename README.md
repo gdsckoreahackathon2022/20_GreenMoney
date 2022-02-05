@@ -1,6 +1,8 @@
 # 2022 GDSC Winter Hack : 💰GreenMoney💰
 
-[발표자료](가그린_발표자료.pdf)
+[apk 다운로드 링크]()
+
+[발표자료]()
 
 ### 📌 About our Team 
 > Team 20 가그린 
@@ -34,6 +36,41 @@
 - 아이가 인증 요청한 미션을 보고, 인증해줄 수 있음 
 ### 👶 Child 
 - 미션을 수행한 뒤에 부모님께 인증 요청 가능 
+
+
+## 💡 Demo
+### Join Page
+<img width="381" alt="join" src="https://user-images.githubusercontent.com/86420940/152622420-a4c1bcc4-6b95-48bc-837b-828d67b09ffc.png">
+
+### Login Page
+
+<img width="381" alt="login" src="https://user-images.githubusercontent.com/86420940/152622254-2f1d8429-60ec-4a51-b928-141e5ee0c4b0.png">
+
+- login 성공 시 jwt token 발급
+
+### Main Page
+
+<img width="381" alt="main" src="https://user-images.githubusercontent.com/86420940/152622257-22000d5c-a3f5-4259-8dc9-81bad23da2c5.png">
+
+- mission을 완료할 때마다 나무에 꽃이 열린다
+
+### AllMission Page
+
+<img width="381" alt="allMission" src="https://user-images.githubusercontent.com/86420940/152622233-6ccc1c12-0ab1-472a-90e7-86adf6d88e36.png">
+
+- 월별로 달성한 미션과 획득한 용돈정보를 표시해준다.
+
+### Setting Page
+
+<img width="381" alt="settings" src="https://user-images.githubusercontent.com/86420940/152622213-55faba6d-348b-46e2-8c68-abffcb43a555.png">
+
+- maxMoney, paymentDate, connectedEmail, password, phonenumber 를 수정할 수 있는 페이지이다.  
+
+
+
+
+
+
 
 </br>
 
